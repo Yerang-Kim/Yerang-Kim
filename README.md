@@ -7,7 +7,7 @@
 **<p>Connection ✨</p>**
 <a href="https://www.instagram.com/yr425/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt=""></a>
 
-**<p>Language / Tools 🌱</p>**
+**<p>Skills 🌱</p>**
 <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
