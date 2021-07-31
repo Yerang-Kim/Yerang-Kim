@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
 </div>
 
 <!---
