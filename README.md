@@ -4,8 +4,6 @@
 - 💞️ 2021 Goal: To be a junior back-end developer.
 - ⚡ Fun fact: I love to watch 그것이알고싶다, 꼬리에꼬리를무는이야기 with drinks.
 
-**<p>Connection ✨</p>**
-<a href="https://www.instagram.com/yr425/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt=""></a>
 
 **<p>Skills 🌱</p>**
 <div>
