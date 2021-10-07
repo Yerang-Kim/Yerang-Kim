@@ -1,6 +1,6 @@
 **<p>HELLO! I'm Yerang 👋</p>**
 - 👀 I love to learn something new.
-- 🌱 I’m currently learning django-rest-framework, golang.
+- 🌱 I’m currently learning flask, django-rest-framework, golang.
 - 💞️ I love to communicate with various people.
 - ⚡ I love to watch NETFLIX with drinks.
 
