@@ -1,8 +1,8 @@
 **<p>HELLO! I'm Yerang 👋</p>**
-- 👀 I love drinking, coding, sleeping and being comfortable.
-- 🌱 I’m currently learning django, sql, server..  to be a back-end developer.
-- 💞️ 2021 Goal: To be a junior back-end developer.
-- ⚡ Fun fact: I love to watch 그것이알고싶다, 꼬리에꼬리를무는이야기 with drinks.
+- 👀 I love to learn something new.
+- 🌱 I’m currently learning django-rest-framework, golang.
+- 💞️ I love to communicate with various people.
+- ⚡ I love to watch NETFLIX with drinks.
 
 
 **<p>Skills 🌱</p>**
