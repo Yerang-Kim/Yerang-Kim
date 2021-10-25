@@ -1,12 +1,15 @@
 **<p>HELLO! I'm Yerang 👋</p>**
 - 👀 I love to learn something new.
-- 🌱 I’m currently learning flask, django-rest-framework, golang.
+- 🌱 I’m currently learning RubyOnRails, Flask, Django-Rest-Framework, Golang.
 - 💞️ I love to communicate with various people.
-- ⚡ I love to watch NETFLIX with drinks.
+- ⚡ I love to watch NETFLIX, WAVVE with drinks.
+- ✨ I am a junior backend developer.
 
 
 **<p>Skills 🌱</p>**
 <div>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/RubyOnRails-CC0000?style=flat-square&logo=RubyOnRails&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">
