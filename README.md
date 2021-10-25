@@ -1,6 +1,6 @@
 **<p>HELLO! I'm Yerang 👋</p>**
 - 👀 I love to learn something new.
-- 🌱 I’m currently learning RubyOnRails, Flask, Django-Rest-Framework, Golang.
+- 🌱 I’m currently learning RubyOnRails.
 - 💞️ I love to communicate with various people.
 - ⚡ I love to watch NETFLIX, WAVVE with drinks.
 - ✨ I am a junior backend developer.
